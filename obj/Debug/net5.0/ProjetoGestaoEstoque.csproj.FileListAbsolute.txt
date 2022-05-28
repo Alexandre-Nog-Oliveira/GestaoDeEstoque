@@ -1,0 +1,16 @@
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\bin\Debug\net5.0\ProjetoGestaoEstoque.exe
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\bin\Debug\net5.0\ProjetoGestaoEstoque.deps.json
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\bin\Debug\net5.0\ProjetoGestaoEstoque.runtimeconfig.json
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\bin\Debug\net5.0\ProjetoGestaoEstoque.runtimeconfig.dev.json
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\bin\Debug\net5.0\ProjetoGestaoEstoque.dll
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\bin\Debug\net5.0\ref\ProjetoGestaoEstoque.dll
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\bin\Debug\net5.0\ProjetoGestaoEstoque.pdb
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.csproj.AssemblyReference.cache
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.AssemblyInfoInputs.cache
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.AssemblyInfo.cs
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.dll
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ref\ProjetoGestaoEstoque.dll
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.pdb
+C:\Users\197277\OneDrive - dti digital crafters\Documentos\Projetos\ProjetoGestaoEstoque\obj\Debug\net5.0\ProjetoGestaoEstoque.genruntimeconfig.cache
